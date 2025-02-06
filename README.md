@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OMKARTANDALE
-- 👀 I’m interested in AIML,gaming devlopment.  
+- 👀 I’m interested in machine learning,game devlopment, web devlopment.  
 - 🌱 I’m currently learning python,sql,html,react
 
 
